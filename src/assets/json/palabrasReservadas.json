@@ -1,0 +1,129 @@
+{
+    "letras": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "numeros": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+    "simbolos": ["+", "-", "*", "/", "=", "(", ")", "{", "}", "[", "]", ";", ":", ",", ".", "<", ">", "!", "&", "|", " "],
+    "aritmeticos": ["+", "-", "*", "/", "="],
+    "comparacion": ["=<", "=>","==", "<", ">", "!="],
+    "agrupacion": ["(", ")", "{", "}", "[", "]"],
+    "asignacion": ["="],
+    "logicos": ["&&", "||", "!"],
+    "cierre": [";"],
+    "palabrasReservadas":[
+        {
+            "tipo": "int",
+            "valor": "entero"
+        },
+        {
+            "tipo": "float",
+            "valor": "flotante"
+        },
+        {
+            "tipo": "char",
+            "valor": "caracter"
+        },
+        {
+            "tipo": "string",
+            "valor": "texto"
+        },
+        {
+            "tipo": "bool",
+            "valor": "matrix"
+        },
+        {
+            "tipo": "if",
+            "valor": "si"
+        },
+        {
+            "tipo": "else",
+            "valor": "entonces"
+        },
+        {
+            "tipo": "while",
+            "valor": "mientras"
+        },
+        {
+            "tipo": "for",
+            "valor": "para"
+        },
+        {
+            "tipo": "do",
+            "valor": "hacer"
+        },
+        {
+            "tipo": "switch",
+            "valor": "nintendo"
+        },
+        {
+            "tipo": "case",
+            "valor": "caso"
+        },
+        {
+            "tipo": "default",
+            "valor": "predeterminado"
+        },
+        {
+            "tipo": "break",
+            "valor": "romper"
+        },
+        {
+            "tipo": "continue",
+            "valor": "continuar"
+        },
+        {
+            "tipo": "return",
+            "valor": "retornar"
+        },
+        {
+            "tipo": "true",
+            "valor": "verdadero"
+        },
+        {
+            "tipo": "false",
+            "valor": "falso"
+        },
+        {
+            "tipo": "void",
+            "valor": "vacio"
+        },
+        {
+            "tipo": "main",
+            "valor": "principal"
+        },
+        {
+            "tipo": "print",
+            "valor": "imprimir"
+        },
+        {
+            "tipo": "println",
+            "valor": "println"
+        },
+        {
+            "tipo": "read",
+            "valor": "read"
+        },
+        {
+            "tipo": "readln",
+            "valor": "readln"
+        },
+        {
+            "tipo": "class",
+            "valor": "clase"
+        },
+        {
+            "tipo": "public",
+            "valor": "publico"
+        },
+        {
+            "tipo": "private",
+            "valor": "privado"
+        },
+        {
+            "tipo": "protected",
+            "valor": "protector"
+        }
+    ]
+    }
+        
+        
+        
+    
